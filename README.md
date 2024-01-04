@@ -3,6 +3,8 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mjdabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="mjdabdullah" /> </p>
 
 - 🌱 I’m currently learning **Flutter**
+- 👀 I'm interested in Website developer
+- 🐾 Love Cat's
 
 - 📫 How to reach me **mjd.abdullah75@gmail.com**
 
@@ -25,20 +27,35 @@
   <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" height="30" alt="csharp logo"  />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" height="30" alt="csharp logo" /> 
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" height="30" alt="csharp logo" /> 
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"  height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/bestofjs/bestofjs-webui/8665e8c267a0215f3159df28b33c365198101df5/public/logos/realm.svg" height="30" alt="csharp logo" />
+  <img width="12" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/swift/swift-original.svg" height="30" alt="csharp logo" /> 
+  <img width="12" />
 </div>
 
 <p></p>
