@@ -7,7 +7,7 @@
 - 📫 How to reach me **mjd.abdullah75@gmail.com**
 
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="https://github.com/MjdAbdullah/MjdAbdullah/assets/90833193/1e7d4628-b5d5-434c-bc23-072afaf8c788"  />
 
 <h3 align="left">Languages and Tools:</h3>
 
